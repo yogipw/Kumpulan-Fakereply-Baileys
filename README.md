@@ -10,5 +10,9 @@
 8.Gif 
 9.TextThumbnail 
 10.VN 
+11.Sticker (Ntar gw update) 
 ```
-# Kasih Star lah bang:v
+# KASIH STAR LAH BANG
+```bash
+KASIH TQTO GW LAH ANJG KALAU MAKE
+```
