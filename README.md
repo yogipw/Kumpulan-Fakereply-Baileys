@@ -1,4 +1,5 @@
 # Fakereply
+```bash
 1.Product 
 2.Troli 
 3.Location 
@@ -9,4 +10,5 @@
 8.Gif 
 9.TextThumbnail 
 10.VN 
-# Kasih Star lah bang
+```
+# Kasih Star lah bang:v
