@@ -163,10 +163,8 @@ const fvn = {
                 },
 	 message: { 
 		"audioMessage": {
-                 "mimetype":"image/webp",
-                 "height": "500",
-				  "width": "500",
-                 "isAnimated": "false",
+                 "mimetype":"audio/ogg; codecs=opus",
+                 "seconds": "${second}",
                  "ptt": "true"
                         }
 	                  } 
